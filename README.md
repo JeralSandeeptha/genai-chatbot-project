@@ -5,6 +5,7 @@
 - [Links](#links)
 - [Projects](#projects)
 - [Database Design](#database-design)
+- [Deployments](#deployments)
 
 ## Links
 
@@ -90,3 +91,8 @@ erDiagram
     USERS ||--o{ REFRESH_TOKENS : has
     SPRING_SESSION ||--o{ SPRING_SESSION_ATTRIBUTES : stores
 ```
+
+## Deployments
+
+![Image](./images/vercel.png)
+![Image](./images/railway.png)
