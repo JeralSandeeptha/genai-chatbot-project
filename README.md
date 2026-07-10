@@ -1,7 +1,22 @@
 # AI Chatbot
 
+## Table of Contents
+
+- [Links](#links)
+- [Projects](#projects)
+- [Database Design](#database-design)
+
+## Links
+
+- https://genai-chatbot-frontend.vercel.app/
+- https://genai-chatbot-backend-production-0611.up.railway.app/
+
+## Projects
+
 - [Frontend Project](https://github.com/JeralSandeeptha/genai-chatbot-frontend)
 - [Backend Project](https://github.com/JeralSandeeptha/genai-chatbot-backend)
+
+## Database Design
 
 ---
 
